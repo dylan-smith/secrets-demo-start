@@ -1,0 +1,17 @@
+name: Check for Vulnerable Dependencies
+
+on: [pull_request]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@master
+    
+    - name: Check vulnerabilities
+      uses: pedrolacerda/scan-commit-for-vulnerable-dependencies@master
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
