@@ -1,6 +1,6 @@
 # Demo GHAS 
 
-## Code Scanning Alerts & Dependency Alerts on non-default Branches
+Code Scanning Alerts & Dependency Alerts on non-default Branches
 
 # WebGoat 8: A deliberately insecure Web Application
 
