@@ -9,7 +9,7 @@ It was used it due to the amount of vulnerabilities it displays once CodeQL Acti
 #### :rotating_light: Do not use it to demo features not related to GHAS Code Scanning and Vulnerabilities alerts on non-default branches
 
 ## How to use it
-<wait for it>
+<under construction>
 
 #### `codeql.yml`
 Workflow with the CodeQL analysis. Runs at 0:00 UTC on Sunday.

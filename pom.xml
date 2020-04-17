@@ -22,6 +22,7 @@
     <version>21</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
+  
 
   <groupId>org.apache.activemq</groupId>
   <artifactId>activemq-parent</artifactId>
