@@ -13,6 +13,6 @@ jobs:
       uses: actions/checkout@master
     
     - name: Check vulnerabilities
-      uses: pedrolacerda/pr-with-vulnerable-dependencies@master
+      uses: pedrolacerda/scan-commit-for-vulnerable-dependencies@master
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
