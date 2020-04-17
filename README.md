@@ -2,9 +2,9 @@
 
 Code Scanning Alerts & Dependency Alerts on non-default Branches
 
-# WebGoat 8: A deliberately insecure Web Application
+#### WebGoat 8: A deliberately insecure Web Application
 
-This is a copy of WebGoatm a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
+This is a copy of WebGoatm, a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
 application security lessons.
 
 #### :rotating_light: Do not use it to demo features not related to GHAS Code Scanning and Vulnerabilities alerts on non-default branches
