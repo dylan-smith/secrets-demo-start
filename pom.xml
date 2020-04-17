@@ -590,12 +590,6 @@
         <version>${camel-version}</version>
       </dependency>
       <dependency>
-			  <groupId>org.sonarsource.java</groupId>
-			  <artifactId>sonar-jacoco-listeners</artifactId>
-			  <version>3.6</version>
-			  <scope>test</scope>
-			</dependency>
-      <dependency>
         <groupId>org.apache.camel</groupId>
         <artifactId>camel-test</artifactId>
         <version>${camel-version}</version>

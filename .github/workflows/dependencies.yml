@@ -3,7 +3,8 @@ name: Check for Vulnerable Dependencies
 on: [pull_request]
 
 jobs:
-  build:
+  check-dependencies:
+    name: Check dependencies
 
     runs-on: ubuntu-latest
 
