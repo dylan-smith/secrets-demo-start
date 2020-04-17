@@ -1,10 +1,7 @@
 name: CodeQL
 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  fork:
 
 jobs:
   build:
