@@ -1,6 +1,9 @@
 name: Check for Vulnerable Dependencies
 
-on: [pull_request]
+on: 
+  pull_request:
+    branches: -none
+
 
 jobs:
   check-dependencies:
