@@ -30,6 +30,7 @@ jobs:
       uses: github/codeql-action/init@v1
       with:
         languages: ${{ matrix.language }}
+        queries: security-and-quality
 
 #   This repo fails to use the Autobuild from CodeQL
 #    - name: Autobuild
