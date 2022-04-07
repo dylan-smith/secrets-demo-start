@@ -25,7 +25,7 @@ Claiming that you were doing security research will not work as that is the
 first thing that all hackers claim.*
 
 ## How to use it
-In order to install and run it, check out the [original demo](https://github.com/octodemo/WebGoat) created by @bas
+In order to install and run it, check out the [original demo](https://github.com/octodemo/WebGoat) created by @nickliffen   
 
 #### `codeql.yml`
 Workflow with the CodeQL analysis. Runs at 0:00 UTC on Sunday.
