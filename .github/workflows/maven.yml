@@ -29,9 +29,6 @@ jobs:
       run: ls -la
     - uses: anchore/sbom-action@v0
       with:
-         path: ./webgoat-target/
-    - uses: anchore/sbom-action@v0
-      with:
          path: ./webgoat-images/target/
     - uses: anchore/sbom-action@v0
       with:
