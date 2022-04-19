@@ -29,16 +29,7 @@ jobs:
       run: ls -la
     - uses: anchore/sbom-action@v0
       with:
-         path: ./webgoat-images/target/
-    - uses: anchore/sbom-action@v0
-      with:
-         path: ./webgoat-integration-test/target/
-    - uses: anchore/sbom-action@v0
-      with:
-         path: ./webgoat-lessons/target/
-    - uses: anchore/sbom-action@v0
-      with:
          path: ./webgoat-server/target/
     - uses: anchore/sbom-action@v0
       with:
-        path: ./webwolf/target/
+         path: ./webwolf/target/
