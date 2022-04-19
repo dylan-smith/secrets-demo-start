@@ -27,4 +27,4 @@ jobs:
       run: mvn -B package -DskipTests=true --file pom.xml
     - uses: anchore/sbom-action@v0
       with:
-        path: target/*.jar
+        path: target/
