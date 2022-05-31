@@ -1,6 +1,8 @@
-# Demo GHAS 
+# Demo GHAS
 
 Code Scanning Alerts & Dependency Alerts on non-default Branches
+
+test secret = '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'
 
 #### WebGoat 8: A deliberately insecure Web Application
 
