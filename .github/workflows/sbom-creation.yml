@@ -24,7 +24,7 @@ jobs:
   uploadSBOM:
     name: Upload Software Bill of Materials
     runs-on: ubuntu-latest
-    needs: buildSetup:
+    needs: buildSetup
     if: always()
     steps:
       - uses: anchore/sbom-action@v0
