@@ -20,10 +20,10 @@ jobs:
     - name: Path Call Out
       run: ls -la ./webgoat-server/target
     - uses: anchore/sbom-action@v0
-        with:
-          image: ./webgoat-server/target/webgoat-server-v8.0.0-SNAPSHOT.jar
-          dependency-snapshot: true
+      with:
+        image: ./webgoat-server/target/webgoat-server-v8.0.0-SNAPSHOT.jar
+        dependency-snapshot: true
     - uses: anchore/sbom-action@v0
-        with: 
-          image: ./webwolf/target/webwolf-v8.0.0-SNAPSHOT.jar
-          dependency-snapshot: true
+      with: 
+        image: ./webwolf/target/webwolf-v8.0.0-SNAPSHOT.jar
+        dependency-snapshot: true
