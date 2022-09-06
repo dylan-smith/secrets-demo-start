@@ -5,3 +5,5 @@ var token = "8256ba5a40014ed318f8f22cc15227b579e341ef"
 var token2 = '9278b9f396e023a0680f6100ce9371b2e7619827'
 
 var tok = "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"
+
+var new_key = "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"
