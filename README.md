@@ -2,7 +2,7 @@
 
 Code Scanning Alerts & Dependency Alerts on non-default Branches
 
-test secret = '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'
+test secret = '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'
 
 #### WebGoat 8: A deliberately insecure Web Application
 
