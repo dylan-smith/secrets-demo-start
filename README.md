@@ -13,7 +13,9 @@ application security lessons.
 
 This program is a demonstration of common server-side application flaws. The
 exercises are intended to be used by people to learn about application security and
-penetration testing techniques.
+penetration testing techniques. 
+
+API: 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
 
 **WARNING 1:** *While running this program your machine will be extremely
 vulnerable to attack. You should disconnect from the Internet while using
