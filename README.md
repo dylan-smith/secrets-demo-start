@@ -38,3 +38,7 @@ You can check the results of its runs on the [Security Tab](https://github.com/o
 Workflow that checks every new PR that changes dependencies files. If the PR introduces dependencies with known vulnerabilities, it fails. PRs that don't change dependencies are not checked.
 
 Uses [this Action](https://github.com/marketplace/actions/scan-a-pr-for-vulnerable-dependencies) to perform the analysis on non-default branches. The Action uses GitHub's [SecurityVulnerability API](https://developer.github.com/v4/object/securityvulnerability/)
+
+
+
+new stuff AIzaSyAQfxPJiounkhOjODEO5ZieffeBv6yft2Q
